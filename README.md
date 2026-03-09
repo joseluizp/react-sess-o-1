@@ -22,6 +22,6 @@
 
 #### Comandos usados para atualizar um projeto
 
-* git commit -m update
+* git commit -m updated
 
 *git push
