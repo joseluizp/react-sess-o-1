@@ -35,12 +35,12 @@ function App() {
                     <h1>Pedidos</h1>
 
                     <div className="item-input">
-                        <label >Nome</label>
+                        <label >Nomes</label>
                         <input type="text" placeholder="nome" value={nome} onChange={e => setNome(e.target.value)} />
                     </div>
 
                     <div className="item-input">
-                        <label >Telefone</label>
+                        <label >Telefones</label>
                         <input type="text" placeholder="telefone"
                             value={telefone} onChange={e => setTelefone(e.target.value)} />
                     </div>
