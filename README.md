@@ -1,27 +1,24 @@
-#### ReactJSX
+#### Projeto React
+
+#### Projeto desenvolvido com React utilizando JSX, com foco em prática de criação de componentes e execução básica de uma aplicação front-end.
 
 #### Primeira tela
-
 <img src="./preview/tela-inicial.png" alt="primeira tela">
 
-#### Comandos basicos
+#### Comandos básicos (Vite + React)
+npm create vite@latest
+cd nomePasta
+npm install
+npm run dev
+npm run build
+Comandos Git
+git init
+git add .
 
-*npm create vite@latesdt
-*cd nomePasta
+#### Comandos para atualização do projeto
+git commit -m "updated"
+git push
 
-*npm install
-*npm run dev
-*npm run build
-*cls
+#### Observação
 
-#### Comandos Git
-
-*git init
-
-*git add .
-
-#### Comandos usados para atualizar um projeto
-
-* git commit -m updated
-
-*git push
+Este projeto foi desenvolvido com foco em aprendizado de React e JSX, utilizando Vite como ferramenta de build para criação e execução do ambiente de desenvolvimento.
